@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Ejercicio N01 - Env\IeC {\'\i }os}{1}
+\contentsline {section}{\numberline {2}Ejercicio N02 - Reservas de viaje}{5}
+\contentsline {section}{\numberline {3}Ejercicio N03 - Gesti\IeC {\'o}n de proyectos }{8}
